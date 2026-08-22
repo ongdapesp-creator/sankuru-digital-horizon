@@ -1,0 +1,9 @@
+{
+  "repository_name": "sankuru-digital-horizon",
+  "team_name": "DAPESP ONG",
+  "model_name": "Qwen2.5-3B-Otetela-FoodSafety",
+  "test_prompts": [
+    "Losaka la iteta va?",
+    "Comment prévenir la moisissure du manioc et l'Aflatoxine B1 à Dionga Kokolomami ?"
+  ]
+}
