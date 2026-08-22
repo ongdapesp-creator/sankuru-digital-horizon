@@ -1,5 +1,0 @@
-*.gguf
-model/
-__pycache__/
-*.pyc
-submission.json
